@@ -1,0 +1,91 @@
+{
+  "app": {
+    "name": "MyJurneez",
+    "subtitle": "Vendor Portal"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "myTasks": "My Tasks",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "totalTasks": "Total Tasks",
+    "assignedToday": "Assigned Today",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "todaysTasks": "Today's Tasks"
+  },
+  "tasks": {
+    "title": "My Tasks",
+    "listView": "List",
+    "cardView": "Cards",
+    "property": "Property",
+    "unit": "Unit",
+    "category": "Category",
+    "status": "Status",
+    "dueDate": "Due Date",
+    "priority": "Priority",
+    "description": "Description",
+    "assignedAt": "Assigned",
+    "completedAt": "Completed At",
+    "noTasks": "No tasks found",
+    "filterByStatus": "Filter by Status",
+    "filterByCategory": "Filter by Category",
+    "filterByDate": "Filter by Date",
+    "allStatuses": "All Statuses",
+    "allCategories": "All Categories",
+    "allDates": "All Dates",
+    "viewDetails": "View Details"
+  },
+  "taskDetail": {
+    "title": "Task Details",
+    "back": "Back",
+    "timeline": "Status Timeline",
+    "actions": "Actions",
+    "startTask": "Start Task",
+    "completeTask": "Complete Task",
+    "uploadProof": "Upload Proof",
+    "uploadImages": "Upload Images",
+    "proofImages": "Proof Images",
+    "dragDrop": "Drag & drop images or click to upload",
+    "taskStarted": "Task started successfully",
+    "taskCompleted": "Task completed successfully",
+    "imageUploaded": "Image uploaded successfully"
+  },
+  "status": {
+    "open": "Open",
+    "in_progress": "In Progress",
+    "resolved": "Resolved",
+    "Assigned": "Assigned",
+    "InProgress": "In Progress",
+    "Completed": "Completed"
+  },
+  "priority": {
+    "undefined": "Normal",
+    "Low": "Low",
+    "Medium": "Medium",
+    "High": "High",
+    "Urgent": "Urgent"
+  },
+  "category": {
+    "Security": "Security",
+    "Plumbing": "Plumbing",
+    "Electrical": "Electrical",
+    "Cleaning": "Cleaning",
+    "Maintenance": "Maintenance",
+    "Inspection": "Inspection"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "profile": "Profile"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "today": "Today",
+    "overdue": "Overdue"
+  }
+}

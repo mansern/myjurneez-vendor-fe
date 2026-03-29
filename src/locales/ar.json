@@ -1,0 +1,91 @@
+{
+  "app": {
+    "name": "ماي جرنيز",
+    "subtitle": "بوابة المورّد"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "myTasks": "مهامي",
+    "settings": "الإعدادات"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome": "مرحباً بعودتك",
+    "totalTasks": "إجمالي المهام",
+    "assignedToday": "مهام اليوم",
+    "inProgress": "قيد التنفيذ",
+    "completed": "مكتملة",
+    "todaysTasks": "مهام اليوم"
+  },
+  "tasks": {
+    "title": "مهامي",
+    "listView": "قائمة",
+    "cardView": "بطاقات",
+    "property": "العقار",
+    "unit": "الوحدة",
+    "category": "الفئة",
+    "status": "الحالة",
+    "dueDate": "تاريخ الاستحقاق",
+    "priority": "الأولوية",
+    "description": "الوصف",
+    "assignedAt": "تاريخ التعيين",
+    "completedAt": "تاريخ الإنجاز",
+    "noTasks": "لا توجد مهام",
+    "filterByStatus": "تصفية حسب الحالة",
+    "filterByCategory": "تصفية حسب الفئة",
+    "filterByDate": "تصفية حسب التاريخ",
+    "allStatuses": "جميع الحالات",
+    "allCategories": "جميع الفئات",
+    "allDates": "جميع التواريخ",
+    "viewDetails": "عرض التفاصيل"
+  },
+  "taskDetail": {
+    "title": "تفاصيل المهمة",
+    "back": "رجوع",
+    "timeline": "الجدول الزمني",
+    "actions": "الإجراءات",
+    "startTask": "بدء المهمة",
+    "completeTask": "إكمال المهمة",
+    "uploadProof": "رفع الإثبات",
+    "uploadImages": "رفع الصور",
+    "proofImages": "صور الإثبات",
+    "dragDrop": "اسحب وأفلت الصور أو انقر للرفع",
+    "taskStarted": "تم بدء المهمة بنجاح",
+    "taskCompleted": "تم إكمال المهمة بنجاح",
+    "imageUploaded": "تم رفع الصورة بنجاح"
+  },
+  "status": {
+    "open": "مفتوحة",
+    "in_progress": "قيد التنفيذ",
+    "resolved": "تم الحل",
+    "Assigned": "معيّنة",
+    "InProgress": "قيد التنفيذ",
+    "Completed": "مكتملة"
+  },
+  "priority": {
+    "undefined": "عادية",
+    "Low": "منخفضة",
+    "Medium": "متوسطة",
+    "High": "عالية",
+    "Urgent": "عاجلة"
+  },
+  "category": {
+    "Security": "أمن",
+    "Plumbing": "سباكة",
+    "Electrical": "كهرباء",
+    "Cleaning": "تنظيف",
+    "Maintenance": "صيانة",
+    "Inspection": "تفتيش"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "profile": "الملف الشخصي"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "today": "اليوم",
+    "overdue": "متأخرة"
+  }
+}
