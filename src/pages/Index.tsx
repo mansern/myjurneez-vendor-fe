@@ -1,16 +1,23 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { Button } from "@/components/ui/button"; // Assuming you have Shadcn UI
+import { Card } from "@/components/ui/card";
 
-// IMPORTANT: Fully REPLACE this with your own code
-const PlaceholderIndex = () => {
-  // PLACEHOLDER: Replace this entire return statement with the user's app.
-  // The inline background color is intentionally not part of the design system.
+const Index = () => {
   return (
-    <div className="flex min-h-screen items-center justify-center" style={{ backgroundColor: '#fcfbf8' }}>
-      <img data-lovable-blank-page-placeholder="REMOVE_THIS" src="/placeholder.svg" alt="Your app will live here!" />
+    <div className="flex min-h-screen flex-col items-center justify-center bg-gray-50 p-4">
+      <Card className="max-w-md p-8 text-center shadow-lg">
+        <h1 className="mb-4 text-3xl font-bold text-gray-900">
+          MyJurneez Portal
+        </h1>
+        <p className="mb-6 text-gray-600">
+          Welcome to the MyJurneez ecosystem. Your application code starts here.
+        </p>
+        <div className="flex gap-4 justify-center">
+          <Button>Get Started</Button>
+          <Button variant="outline">Documentation</Button>
+        </div>
+      </Card>
     </div>
   );
 };
-
-const Index = PlaceholderIndex;
 
 export default Index;
